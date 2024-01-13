@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@font-face {
+    font-family: "raleway";
+    src: url('./assets/fonts/raleway-regular.woff2');
+}
